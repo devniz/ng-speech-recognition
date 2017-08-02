@@ -1,8 +1,6 @@
 # ng-speech-recognition
 AngularJS directive for Speech Recognition, compatible Cordova and web application.
 
-![Alt text](http://i1076.photobucket.com/albums/w460/kooryslab/687474703a2f2f676f6f2e676c2f6f59694b4a34_zpsv9uvv43h.png "HTML5 & Speech Recognition")
-
 ng-speech-recognition is a simple AngularJS directive to add Speech Recognition feature to your Cordova (ionic) and AngularJS application.
 
 ### 1) What for?
