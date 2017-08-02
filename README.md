@@ -71,8 +71,6 @@ If your button with the directive is not responding, make sure that you did buil
 
 ### 4) Demo:
 
-![Alt text](http://i1076.photobucket.com/albums/w460/kooryslab/Screen%20Shot%202016-11-20%20at%2022.00.11_zpsdxurhaud.png "Ionic Speech Recognition Demo")
-
 You can clone this repository and start the ionic Demo using the Web Speech API:
 
 ```
