@@ -92,7 +92,7 @@ Play with Speech Recognition by holding the button "Press & Talk"! This will out
 
 - Add tests.
 - Prompt automatically the user for Microphone permission.
-- Make it work for AngularJS2 + ionic2
+- Make it work for Angular + ionic2
 - Please feel free to send pull request if you think that this directive can be improved, I will have a look at it, asap!
 
 
